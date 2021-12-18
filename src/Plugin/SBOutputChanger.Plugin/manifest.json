@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Output toggle",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "SoundblasterX audio output toggle",
+      "UUID": "com.cheerpipe.sboutputchanger",
+      "PropertyInspectorPath": "PropertyInspector/Sample.html"
+    }
+  ],
+  "Author": "Cheerpipe",
+  "Description": "SoundblasterX audio output toggle",
+  "Name": "Output toggle",
+  "Icon": "Images/pluginIcon",
+  "URL": "",
+  "Version": "0.1",
+  "CodePath": "com.cheerpipe.sboutputchanger",
+  "Category": "SoundBlasterX",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.4.1"
+  }
+}
